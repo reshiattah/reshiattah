@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Dev**
 
-- 👨‍💻 All of my projects are available at [](Uploading Soon)
+- 👨‍💻 All of my projects will be available at my Github 
 
 - 📫 How to reach me **reshiattah@gmail.com**
 
