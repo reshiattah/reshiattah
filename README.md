@@ -39,13 +39,6 @@ I am an aspiring **Full-Stack Developer** based in Srinagar, J&K, with a backgro
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=reshiattah&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" />
-</p>
-
----
-
 ### 🚀 Journey & Milestones
 * **2023 – Present:** Pursuing Computer Science and Full-Stack Development. Mastering the transition from visual storytelling to logic-driven digital solutions.
 * **2022 – 2023:** Shifted focus to higher education and tech; applied creative problem-solving from vlogging to software engineering.
